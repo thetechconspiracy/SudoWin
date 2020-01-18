@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sudo": {
+      "commandName": "Project",
+      "commandLineArgs": "dir"
+    }
+  }
+}
